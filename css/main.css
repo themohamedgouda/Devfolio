@@ -252,7 +252,7 @@ nav a {
 /* blog-section */
 .blog{
   background-color: #f5f5f5;
-  padding-bottom: calc(var(--mainPadding) * 2);
+  padding-bottom: calc(var(--mainPadding) * 1.5);
 }
 .blog .card .card-footer img{
   width: 40px; /* Adjust as needed */
@@ -272,7 +272,7 @@ nav a {
   background-size: cover;
 }
 .contact .container{
-  background-color: #f5f5f5;
+  background-color: white;
 }
 .contact .social{
   display: flex;
